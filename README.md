@@ -17,23 +17,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: ![* SQL Injection (SQLi)](https://github.com/kevinsinclair83/Week-8/blob/master/SQLiweek8.gif)
+Vulnerability #1: ![SQL Injection (SQLi)](https://github.com/kevinsinclair83/Week-8/blob/master/SQLiweek8.gif)
 
-Vulnerability #2: ![* Session Hijacking/Fixation](https://github.com/kevinsinclair83/Week-8/blob/master/SessionHijackingweek8.gif)
+Vulnerability #2: ![Session Hijacking/Fixation](https://github.com/kevinsinclair83/Week-8/blob/master/SessionHijackingweek8.gif)
 
 
 ## Green
 
-Vulnerability #1: ![* Cross-Site Scripting (XSS)](https://github.com/kevinsinclair83/Week-8/blob/master/XSSweek8.gif)
+Vulnerability #1: ![Cross-Site Scripting (XSS)](https://github.com/kevinsinclair83/Week-8/blob/master/XSSweek8.gif)
 
-Vulnerability #2: ![* Username Enumeration](https://github.com/kevinsinclair83/Week-8/blob/master/userenum1.gif)
+Vulnerability #2: ![Username Enumeration](https://github.com/kevinsinclair83/Week-8/blob/master/userenum1.gif)
 
 
 ## Red
 
-Vulnerability #1: ![* Cross-Site Request Forgery (CSRF)](https://github.com/kevinsinclair83/Week-8/blob/master/CSRFweek8.gif)
+Vulnerability #1: ![Cross-Site Request Forgery (CSRF)](https://github.com/kevinsinclair83/Week-8/blob/master/CSRFweek8.gif)
 
-Vulnerability #2: ![* Insecure Direct Object Reference (IDOR)](https://github.com/kevinsinclair83/Week-8/blob/master/IDOR.gif)
+Vulnerability #2: ![Insecure Direct Object Reference (IDOR)](https://github.com/kevinsinclair83/Week-8/blob/master/IDOR.gif)
 
 ## Notes
 
