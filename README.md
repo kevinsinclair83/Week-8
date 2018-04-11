@@ -26,7 +26,7 @@ Vulnerability #2: ![Session Hijacking/Fixation](https://github.com/kevinsinclair
 
 Vulnerability #1: ![Cross-Site Scripting (XSS)](https://github.com/kevinsinclair83/Week-8/blob/master/XSSweek8.gif)
 
-Vulnerability #2: ![Username Enumeration](https://github.com/kevinsinclair83/Week-8/blob/master/userenum1.gif)
+Vulnerability #2: User Enumeration ![User Enumeration](https://github.com/kevinsinclair83/Week-8/blob/master/userenum1.gif)
 
 
 ## Red
